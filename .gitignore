@@ -24,3 +24,7 @@ dist-ssr
 *.sw?
 #coverage folder
 coverage/
+
+### Terraform Related Items
+terraform/.terraform
+.terraform*
